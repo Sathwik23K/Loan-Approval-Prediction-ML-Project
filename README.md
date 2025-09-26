@@ -1,2 +1,4 @@
 # Loan-Approval-Prediction-ML-Project
-Machine Learning project that predicts loan approvals using classification models like Logistic Regression, Decision Trees, and Random Forest. Includes data preprocessing, model evaluation, and a complete ML pipeline.
+Loan approval is one of the most important decisions in the financial sector.
+The goal of this project is to build a machine learning model that predicts whether a loan will be approved based on applicant details.
+This project demonstrates data preprocessing, model building, evaluation, and optimization—skills essential for data science and ML roles.
